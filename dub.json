@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Adam Furtenbach"
+	],
+	"copyright": "Copyright © 2019, Adam Furtenbach",
+	"dependencies": {
+		"dunit": "~>1.0.14"
+	},
+	"description": "Wyrm Event Sourcing Server",
+	"license": "PROPERITARY",
+	"name": "wyrm"
+}
